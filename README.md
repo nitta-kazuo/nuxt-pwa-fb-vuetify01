@@ -1,3 +1,3 @@
 # nuxt-pwa-fb-vuetify01
-next＋pwa＋vuetify＋firebase のサンプル
+nuxt＋pwa＋vuetify＋firebase のサンプル
 
