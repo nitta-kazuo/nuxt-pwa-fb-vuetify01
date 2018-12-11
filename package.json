@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-pwa-fb-vuetify01",
+  "name": "nuxt-pwa-fb-vuetify02",
   "version": "1.0.0",
   "description": "Vue.js + Nuxt + vuetify sample project",
   "author": "nitta-kazuo",
@@ -10,6 +10,8 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "fb-serv": "firebase serve",
+    "fb-deploy": "firebase deploy",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint"
   },
