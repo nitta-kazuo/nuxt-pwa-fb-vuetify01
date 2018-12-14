@@ -13,8 +13,6 @@
         "allowSyntheticDefaultImports": true,
         "allowJs": true,
         "baseUrl": ".",
-        "paths": {
-          "~/*": ["./*"]
-        }
-      }
-  }
+        "paths": {"~/*": ["./src/*"]}
+    }
+}

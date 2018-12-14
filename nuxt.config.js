@@ -1,6 +1,8 @@
 const pkg = require('./package')
 
 module.exports = {
+  srcDir: 'src/',
+
   //mode: 'spa',
   mode: 'universal',
   generate: { fallback: true },
